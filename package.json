@@ -1,0 +1,16 @@
+{
+  "name": "copy4gpt",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "copy4gpt": "./copy4gpt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^4.0.0"
+  }
+}
