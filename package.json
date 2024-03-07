@@ -1,11 +1,11 @@
 {
   "name": "copy4gpt",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "copy4gpt": "./copy4gpt.js"
+    "copy4gpt": "copy4gpt.js"
   },
   "keywords": [],
   "author": "",
